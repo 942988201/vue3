@@ -1,3 +1,4 @@
+用cnpm 安装
 
 git config格式
 ```
@@ -19,3 +20,9 @@ git config格式
 
 开源项目本体
 https://github.com/lin-xin/vue-manage-system# vue3
+
+增加了echart5 vue3-echart 
+兼容ie11 @vitejs/plugin-legacy
+jsx 
+常见的登录逻辑
+pxto vw 
